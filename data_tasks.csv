@@ -1,0 +1,12 @@
+Nom;Dépendances;Temps;(Description)
+A; ;12;Élaboration des plans
+B;A;10;Fouille archéologiques préventives
+C;B;10;Terrasements
+D;C;9;Construction des voies d’accès
+E;B;31;Construction des ouvrages d’art
+F;A;8;Fabrication des équipements ferroviaires
+G;D, E, F;22;Pose des équipements ferroviaires
+H;G;1;Mise sous tension électrique
+I;H;6;Essais de roulage
+J;D, E, F;4;Raccordement aux voies existantes
+K;J, I;7;Formation des conducteurs SNCF
